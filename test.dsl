@@ -1,5 +1,5 @@
 multibranchPipelineJob("example") {
-  displayName("example")
+  displayName("Jenkins Job DSL Test")
   branchSources {
     branchSource {
       buildStrategies {
