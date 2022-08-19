@@ -1,4 +1,5 @@
 multibranchPipelineJob("example") {
+  displayName("example")
   branchSources {
     branchSource {
       buildStrategies {
