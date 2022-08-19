@@ -25,7 +25,7 @@ multibranchPipelineJob("example") {
   }
   triggers {
     periodicFolderTrigger {
-      interval('3d')
+      interval('1d')
     }
   }
 }
